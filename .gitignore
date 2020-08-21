@@ -5,7 +5,7 @@ yarn-error.log
 /.phpstorm.meta.php
 /wp-content/uploads/*
 /wp-content/viewcache/*
-/wp-config.php
+
 
 /vendor
 .htaccess
