@@ -1,4 +1,6 @@
-# test-fullstack DudkaAgency
+## This is a test task which I deployed on https://test-task-dudka-agency.herokuapp.com/
+
+Below you can find requirements for the task
 
 ## Create simple test site on WP
 
